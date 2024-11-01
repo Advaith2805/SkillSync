@@ -1,8 +1,5 @@
 # SkillSync
 SkillSync is a web-based application designed to streamline the job-seeking process and facilitate communication between potential employers and candidates. Built using Streamlit, MongoDB, and various Python libraries, this innovative platform offers a user-friendly interface for both job seekers and companies.
-# SkillSync
-
-A web-based application for job seekers and companies to connect and find suitable opportunities.
 
 ## Table of Contents
 - [Features](#features)
